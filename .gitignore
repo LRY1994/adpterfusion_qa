@@ -1,0 +1,9 @@
+output
+temp
+/src/data/
+/src/datasets/
+/*/__pycache__
+checkpoints
+wandb
+private.md
+data

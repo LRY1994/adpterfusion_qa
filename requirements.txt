@@ -1,0 +1,7 @@
+tabulate
+adapter-transformers==3.0.1
+wandb
+pandas
+pytorch_metric_learning
+numpy
+pymetis
